@@ -1,0 +1,8 @@
+package com.unionpay.cloudatlas;
+
+public class main {
+    public static void main(String args[]){
+        System.out.println("this is test project!");
+
+    }
+}
